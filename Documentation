@@ -1,1 +1,51 @@
+# Project Documentation
+
+## Café Reverie – Sales & Marketing System
+
+This folder contains the documentation for the Café Reverie Sales & Marketing System.
+
+### Project Report
+
+The complete project report contains:
+
+* Project introduction and objectives
+* System functionality
+* User and administrator features
+* Technology stack
+* Database design
+* System operations
+* Project conclusion
+
+### Technology Stack
+
+The system was developed using:
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+* MySQL
+* SQL
+
+### Main System Areas
+
+The application consists of:
+
+* Customer-facing pages
+* User registration and login
+* Product browsing
+* Customer reviews and comments
+* Help Desk
+* Administrator dashboard
+* Product and inventory management
+* Review management
+* User management
+
+### Database
+
+The project uses a MySQL database named `cafe`, containing tables for users, comments, and products.
+
+### Full Report
+
+See `Cafe_Reverie_Project_Report.pdf` for the complete project documentation.
 
